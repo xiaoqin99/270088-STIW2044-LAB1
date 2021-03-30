@@ -1,6 +1,7 @@
-# lab1
+# 270088-STIW2044-A202-LAB1
 
-A new flutter module project.
+Translating web application from https://www.omnicalculator.com/health/a-body-shape-index to a Flutter mobile application. 
+A body shape index (ABSI) is a new measure of risk associated with waist circumference.
 
 ## Getting Started
 
